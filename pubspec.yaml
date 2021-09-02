@@ -30,6 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   openapi_generator: ^3.2.0+2
   openapi_generator_annotations: ^3.2.0
+  http: '>=0.13.0 <0.14.0'
+  intl: '^0.17.0'
 
 
  
